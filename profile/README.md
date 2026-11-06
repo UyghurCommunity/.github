@@ -10,6 +10,10 @@
 | --- | --- |
 | [Doppa](https://github.com/UyghurCommunity/doppa) | Interactive Uyghur cultural website and embroidery sculpture |
 | [Doppa Kit](https://github.com/UyghurCommunity/doppa-kit) | Embeddable Canvas artwork, custom colors and SVG pattern export |
+| [Uyghur UI](https://github.com/UyghurCommunity/uyghur-ui) | RTL buttons, forms, dialogs, tabs, 50 SVG icons and the East Turkistan flag |
+| [Doppa Studio](https://github.com/UyghurCommunity/doppa-studio) | Visual ornament editor with undo, symmetry and SVG/PNG/JSON exports |
+| [Uyghur Text](https://github.com/UyghurCommunity/uyghur-text) | Unicode inspection, reversible cleanup and RTL fixture exports |
+| [Uyghur Starters](https://github.com/UyghurCommunity/uyghur-starters) | Four standalone website templates and an offline scaffolding CLI |
 | [Uyghur Keyboard](https://github.com/UyghurCommunity/uyghur-keyboard) | Virtual keyboard, Web Component and optional phonetic key mapping |
 | [Lughet API](https://github.com/UyghurCommunity/lughet-api) | Dictionary search, suggestions, daily word and local/HTTP SDK |
 | [Uyghur RTL Lab](https://github.com/UyghurCommunity/uyghur-rtl-lab) | Mixed-direction examples, Unicode inspection and frontend recipes |
@@ -21,8 +25,9 @@ The dictionary entries and evaluation tasks are **original drafts awaiting commu
 
 - Try a live demo and report a reproducible bug in that project's Issues.
 - Suggest Uyghur text corrections with an explanation.
+- Prepare a [dictionary contribution](https://uyghurcommunity.github.io/lughet-api/docs/contribute.html) with provenance for human review.
 - Improve keyboard access, screen-reader output and real-device support.
 - Propose original, clearly licensed cultural artwork or language data.
 - Add small examples and help translate documentation.
 
-Four libraries have versioned npm-compatible archives in their GitHub Releases. npm registry publication is a separate account-authorized step; each README describes the current installation path.
+Seven packages have versioned npm-compatible archives in their GitHub Releases. npm registry publication is deferred; each README describes the current installation path. All project websites use the externally linked ALKATIP Basma font for Uyghur text.

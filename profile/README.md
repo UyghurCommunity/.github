@@ -10,7 +10,7 @@
 | --- | --- |
 | [Doppa](https://github.com/UyghurCommunity/doppa) | Interactive Uyghur cultural website and embroidery sculpture |
 | [Doppa Kit](https://github.com/UyghurCommunity/doppa-kit) | Embeddable Canvas artwork, custom colors and SVG pattern export |
-| [Uyghur UI](https://github.com/UyghurCommunity/uyghur-ui) | RTL components, 74 SVG icons including 27 cultural motifs, and the East Turkistan flag |
+| [Uyghur UI](https://github.com/UyghurCommunity/uyghur-ui) | RTL components and guides, 110 SVG icons (63 cultural) in outline and heritage color, East Turkistan flag and map assets |
 | [Doppa Studio](https://github.com/UyghurCommunity/doppa-studio) | Visual ornament editor with undo, symmetry and SVG/PNG/JSON exports |
 | [Uyghur Text](https://github.com/UyghurCommunity/uyghur-text) | Unicode inspection, reversible cleanup and RTL fixture exports |
 | [Uyghur Starters](https://github.com/UyghurCommunity/uyghur-starters) | Four standalone website templates and an offline scaffolding CLI |
